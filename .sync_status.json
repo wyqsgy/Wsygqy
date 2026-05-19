@@ -1,0 +1,15 @@
+{
+  "last_sync": "2026-05-19T19:05:39.259165",
+  "last_sync_ts": 1779188739.2591727,
+  "success": true,
+  "skill_count": 47,
+  "stats": {
+    "added": 0,
+    "updated": 47,
+    "skipped": 0,
+    "removed": 12
+  },
+  "server_host": "123.56.200.34",
+  "sync_interval_hours": 12,
+  "repo_url": "https://github.com/anbeime/skill.git"
+}

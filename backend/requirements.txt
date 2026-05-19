@@ -7,3 +7,4 @@ requests==2.32.0
 pydantic==2.10.0
 python-multipart==0.0.12
 aiofiles==24.1.0
+paramiko>=3.0.0
